@@ -1,7 +1,3 @@
-# .env
-DISCORD_TOKEN={664371748925603840}
-DISCORD_GUILD={Test}
-
 # bot.py
 import os
 
